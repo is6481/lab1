@@ -1,8 +1,8 @@
 ---
 title: "IS6481 | Lab 1 - Environment Setup and Intro"
 author: "Jeremy Morris"
-output: 
-  html_document: 
+output:
+  html_document:
     theme: cosmo
 ---
 
@@ -39,4 +39,23 @@ Amazon Web Services is probably the best/most popular cloud service provider. AW
 
 To sign up, go to this [link](https://aws.amazon.com/education/awseducate/), click the "Join AWS Educate" button and sign up as a student.
 
+Please watch this [video](https://www.youtube.com/watch?v=qcY-uiEHhn0). This video is quite basic, but introduces some great cloud terminology.
+
 We will be using MySQL databases hosted on AWS this semster. Later in the semester it might be helpful to use the MySQL Workbench which can be downloaded here.
+
+# Instructions
+For Lab 1 do the following.
+
+* Git/GitHub
+    * Watch this video: [https://www.youtube.com/watch?v=BCQHnlnPusY](https://www.youtube.com/watch?v=BCQHnlnPusY)
+* Domo
+    * Go to [http://www.domo.com/start/student](http://www.domo.com/start/student) and sign up for an account
+    * Watch the "Getting started with Domo" video
+* R Studio Cloud
+    * Go to the following link: [link too long to show you](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
+    * Watch the video I will create for an introduction to R Studio
+* AWS
+    * Sign up for [AWS Educate](https://aws.amazon.com/education/awseducate/)
+    * Note that you will be allocated enough credits to complete projects for this course. In fact, there will likely be more credits in your account that we need for the course. If you would like to play around with other technologies not covered in the course, feel free, just be careful you don't use up all the credits before you've finished the assignments.
+    
+After you have completed these exercises, refer to lecture notes for what topics will be covered in quiz 1.
