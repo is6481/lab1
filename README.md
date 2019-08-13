@@ -27,12 +27,12 @@ experimentation with those files as changes can be rolled back to any
 prior version. It is incredibly useful when developing software and, as
 we’re finding, doing analytics work.
 
-Git will not be used a ton in this course. I’m mentioning it here
-because it is terribly important and because all of the materials for
-the course are stored on Git. In particular, all of the labs are stored
-on GitHub and can be downloaded there. Some of you may want to work
-locally for a few of the labs and that can be done easily by checking
-out the code from GitHub.
+Git will not be used a ton in this course, except to be a place I can
+manage and share the materials for the course. I’m mentioning it here
+because it is a terribly important technology that is used in analytics
+(and software development) today. Also note that some of you may want to
+work locally for a few of the labs and that can be done easily by
+checking out the code from GitHub (here: <https://github.com/is6481>).
 
 Please watch this [video](https://www.youtube.com/watch?v=BCQHnlnPusY)
 as an introduction to Git and GitHub.
@@ -76,14 +76,14 @@ complicated machine learning capabilities. It is possible to run all of
 your IT operations on the AWS platform and many of your favorite
 products run on AWS (Netflix and Uber come to mind).
 
-To sign up, go to this
-[link](https://aws.amazon.com/education/awseducate/), click the “Join
-AWS Educate” button and sign up as a student.
+You should have recieved an email from AWS and a note via Canvas from me
+regarding signing up for our AWS classroom. Follow the prompts to sign
+up for the student version of AWS.
 
 Please watch this [video](https://www.youtube.com/watch?v=qcY-uiEHhn0).
 This video is quite basic, but introduces some great cloud terminology.
 
-We will be using MySQL databases hosted on AWS this semster. Later in
+We will be using MySQL databases hosted on AWS this semester. Later in
 the semester it might be helpful to use the MySQL Workbench which can be
 downloaded here.
 
@@ -94,17 +94,25 @@ For Lab 1 do the following.
 
 -   Git/GitHub
     -   Watch this video: <https://www.youtube.com/watch?v=BCQHnlnPusY>
+    -   Be prepared to answer questions in Quiz 1.
 -   Domo
     -   Go to <http://www.domo.com/start/student> and sign up for an
         account
     -   Watch the “Getting started with Domo” video
+    -   Go to the following Google Form and fill in the fields:
+        <https://forms.gle/dY2kph4bg9meAXNn8>
+        -   This will require you get some information that will allow
+            me to log into your instance and extract content by
+            scripting data extraction routines. I’ll provide
+            instructions at the end of the semester that will remove my
+            access (in case you plan on using Domo for other projects).
 -   R Studio Cloud
     -   Go to the following link: [link too long to show
         you](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
     -   Watch the video I will create for an introduction to R Studio
 -   AWS
-    -   Sign up for [AWS
-        Educate](https://aws.amazon.com/education/awseducate/)
+    -   Follow the instructions in the email you recieved to setup your
+        account with AWS Educate.
     -   Note that you will be allocated enough credits to complete
         projects for this course. In fact, there will likely be more
         credits in your account that we need for the course. If you
