@@ -25,9 +25,9 @@ Please watch this [video](https://www.youtube.com/watch?v=BCQHnlnPusY) as an int
 It can be easier to interact with GitHub by downloading [GitHub Desktop](https://desktop.github.com/) This is optional.
 
 ### Domo
-Domo is a cloud-based data warehouse and data visualization platform (disclosure: I work for Domo in my real life). We will be using Domo for a handful of exercises as we can model how data moves from a database or data warehouse, through ETL processes and ends up in a front-end system. Domo also highlights some of the advancements discussed in the text especially around the ability to search for data, the ability to create alerts. and the ability to have reports sent at specified intervals (this will make sense as we go through the course).
+Domo is a cloud-based data warehouse and data visualization platform (disclosure: I work for Domo in my real life). We will be using Domo for a handful of exercises as we can model how data moves from a database or data warehouse, through ETL processes and ends up in a front-end system. Domo also highlights some of the advancements discussed in the text especially around the ability to search for data, the ability to create alerts, and the ability to have reports sent at specified intervals (this will make sense as we go through the course).
 
-You can sign up for a student version of Domo [here](http://www.domo.com/start/student). You will have access to a current version of Domo for one year. Please be responsible regarding what data you bring in to Domo.
+You can sign up for a student version of Domo [here](http://www.domo.com/start/student). You will have access to a current version of Domo for one year. Please be responsible regarding what data you upload to Domo.
 
 ### R/Rstudio Cloud
 We will use RStudio this semester for two predictive projects/labs. R Studio Cloud is a great product that allows me visibility into your work. I'll have the two assignments there and will be able to see your work w/o the need to transfer files back and forth.
@@ -35,15 +35,15 @@ We will use RStudio this semester for two predictive projects/labs. R Studio Clo
 Sign up for your account and access to our workspace [here](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb). There will be a longer introduction to R Studio when we get there later this semester.
 
 ### AWS
-Amazon Web Services is probably the best/most popular cloud service provider. AWS provides everything from simple servers to more complicated machine learning capabilities. It is possible to run all of your IT operations on the AWS platform and many of your favorite products run on AWS (Netflix and Uber come to mind).
+Amazon Web Services is the best/most popular cloud service provider. AWS provides everything from simple servers to more complicated machine learning capabilities. It is possible to run all of your IT operations on the AWS platform and many of your favorite products run on AWS (Netflix and Uber come to mind).
 
 You should have recieved an email from AWS and a note via Canvas from me regarding signing up for our AWS classroom. Follow the prompts to sign up for the student version of AWS.
 
-Please watch this [video](https://www.youtube.com/watch?v=qcY-uiEHhn0). This video is quite basic, but introduces some great cloud terminology.
+Please watch this [video](https://www.youtube.com/watch?v=qcY-uiEHhn0). This video is quite basic, but does a great job introducing cloud computing concepts.
 
-We will be using MySQL databases hosted on AWS this semester. Later in the semester it might be helpful to use the MySQL Workbench which can be downloaded here.
+We will be using MySQL databases hosted on AWS this semester. Later in the semester it might be helpful to use a SQL development environment. More details to follow later in the semester when needed.
 
-# Instructions
+# Summary Instructions
 For Lab 1 do the following.
 
 * Git/GitHub
@@ -55,11 +55,12 @@ For Lab 1 do the following.
     * Go to the following Google Form and fill in the fields: [https://forms.gle/dY2kph4bg9meAXNn8](https://forms.gle/dY2kph4bg9meAXNn8)
         * This will require you get some information that will allow me to log into your instance and extract content by scripting data extraction routines. I'll provide instructions at the end of the semester that will remove my access (in case you plan on using Domo for other projects).
 * R Studio Cloud
-    * Go to the following link: [link too long to show you](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
+    * Go to the following link: [link much too long](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
     * Watch the video I will create for an introduction to R Studio
 * AWS
     * Follow the instructions in the email you recieved to setup your account with AWS Educate.
     * Note that you will be allocated enough credits to complete projects for this course. In fact, there will likely be more credits in your account that we need for the course. If you would like to play around with other technologies not covered in the course, feel free, just be careful you don't use up all the credits before you've finished the assignments.
+* To get credit for the assignment, copy the URL from your Overview page in Domo and submit it as proof you have completed all steps.
     
 After you have completed these exercises, refer to lecture notes for what topics will be covered in quiz 1.
 

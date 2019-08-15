@@ -48,13 +48,13 @@ a handful of exercises as we can model how data moves from a database or
 data warehouse, through ETL processes and ends up in a front-end system.
 Domo also highlights some of the advancements discussed in the text
 especially around the ability to search for data, the ability to create
-alerts. and the ability to have reports sent at specified intervals
+alerts, and the ability to have reports sent at specified intervals
 (this will make sense as we go through the course).
 
 You can sign up for a student version of Domo
 [here](http://www.domo.com/start/student). You will have access to a
 current version of Domo for one year. Please be responsible regarding
-what data you bring in to Domo.
+what data you upload to Domo.
 
 ### R/Rstudio Cloud
 
@@ -70,25 +70,26 @@ this semester.
 
 ### AWS
 
-Amazon Web Services is probably the best/most popular cloud service
-provider. AWS provides everything from simple servers to more
-complicated machine learning capabilities. It is possible to run all of
-your IT operations on the AWS platform and many of your favorite
-products run on AWS (Netflix and Uber come to mind).
+Amazon Web Services is the best/most popular cloud service provider. AWS
+provides everything from simple servers to more complicated machine
+learning capabilities. It is possible to run all of your IT operations
+on the AWS platform and many of your favorite products run on AWS
+(Netflix and Uber come to mind).
 
 You should have recieved an email from AWS and a note via Canvas from me
 regarding signing up for our AWS classroom. Follow the prompts to sign
 up for the student version of AWS.
 
 Please watch this [video](https://www.youtube.com/watch?v=qcY-uiEHhn0).
-This video is quite basic, but introduces some great cloud terminology.
+This video is quite basic, but does a great job introducing cloud
+computing concepts.
 
 We will be using MySQL databases hosted on AWS this semester. Later in
-the semester it might be helpful to use the MySQL Workbench which can be
-downloaded here.
+the semester it might be helpful to use a SQL development environment.
+More details to follow later in the semester when needed.
 
-Instructions
-============
+Summary Instructions
+====================
 
 For Lab 1 do the following.
 
@@ -107,8 +108,8 @@ For Lab 1 do the following.
             instructions at the end of the semester that will remove my
             access (in case you plan on using Domo for other projects).
 -   R Studio Cloud
-    -   Go to the following link: [link too long to show
-        you](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
+    -   Go to the following link: [link much too
+        long](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
     -   Watch the video I will create for an introduction to R Studio
 -   AWS
     -   Follow the instructions in the email you recieved to setup your
@@ -119,6 +120,8 @@ For Lab 1 do the following.
         would like to play around with other technologies not covered in
         the course, feel free, just be careful you don’t use up all the
         credits before you’ve finished the assignments.
+-   To get credit for the assignment, copy the URL from your Overview
+    page in Domo and submit it as proof you have completed all steps.
 
 After you have completed these exercises, refer to lecture notes for
 what topics will be covered in quiz 1.
