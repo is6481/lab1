@@ -53,7 +53,21 @@ For Lab 1 do the following.
     * Go to [http://www.domo.com/start/student](http://www.domo.com/start/student) and sign up for an account
     * Watch the "Getting started with Domo" video
     * Go to the following Google Form and fill in the fields: [https://forms.gle/dY2kph4bg9meAXNn8](https://forms.gle/dY2kph4bg9meAXNn8)
-        * This will require you get some information that will allow me to log into your instance and extract content by scripting data extraction routines. I'll provide instructions at the end of the semester that will remove my access (in case you plan on using Domo for other projects).
+        * To get the Access Token, do the following.
+            * Click the waffle menu in the top right (to the left of your profile image).
+            * Click Admin
+            * Click Security
+            * In the top right of the screen, click "Generate access token"
+            * Description = Instructor creds, User = your user account, Expire after = 90 days
+            * Paste the access token into the Google Form above
+        * To get the developer tokens, do the following.
+            * While you're logged in to Domo, go to [https://developer.domo.com](https://developer.domo.com)
+            * In the top right, click My Account
+            * Click New Client
+            * Name it "IS6481 Grading"
+            * Click all options under scope
+            * Click "Create"
+            * Enter the information in the Google Form
 * R Studio Cloud
     * Go to the following link: [link much too long](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
     * Watch the video I will create for an introduction to R Studio
