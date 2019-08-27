@@ -59,7 +59,6 @@ For Lab 1 do the following.
 * AWS
     * Follow the instructions in the email you recieved to setup your account with AWS Educate.
     * Note that you will be allocated enough credits to complete projects for this course. In fact, there will likely be more credits in your account that we need for the course. If you would like to play around with other technologies not covered in the course, feel free, just be careful you don't use up all the credits before you've finished the assignments.
-* To get credit for the assignment, copy the URL from your Overview page in Domo and submit it as proof you have completed all steps.
     
 After you have completed these exercises, refer to lecture notes for what topics will be covered in quiz 1.
 

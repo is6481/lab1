@@ -114,8 +114,6 @@ For Lab 1 do the following.
         would like to play around with other technologies not covered in
         the course, feel free, just be careful you don’t use up all the
         credits before you’ve finished the assignments.
--   To get credit for the assignment, copy the URL from your Overview
-    page in Domo and submit it as proof you have completed all steps.
 
 After you have completed these exercises, refer to lecture notes for
 what topics will be covered in quiz 1.
