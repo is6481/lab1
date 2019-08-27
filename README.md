@@ -51,7 +51,10 @@ especially around the ability to search for data, the ability to create
 alerts, and the ability to have reports sent at specified intervals
 (this will make sense as we go through the course).
 
-You can sign up for a student version of Domo
+You will receive an invite for this course’s Domo environment. Complete
+the sign-up process as part of this lab.
+
+While not required, you can also sign up for a student version of Domo
 [here](http://www.domo.com/start/student). You will have access to a
 current version of Domo for one year. Please be responsible regarding
 what data you upload to Domo.
@@ -97,30 +100,7 @@ For Lab 1 do the following.
     -   Watch this video: <https://www.youtube.com/watch?v=BCQHnlnPusY>
     -   Be prepared to answer questions in Quiz 1.
 -   Domo
-    -   Go to <http://www.domo.com/start/student> and sign up for an
-        account
-    -   Watch the “Getting started with Domo” video
-    -   Go to the following Google Form and fill in the fields:
-        <https://forms.gle/dY2kph4bg9meAXNn8>
-        -   To get the Access Token, do the following.
-            -   Click the waffle menu in the top right (to the left of
-                your profile image).
-            -   Click Admin
-            -   Click Security
-            -   In the top right of the screen, click “Generate access
-                token”
-            -   Description = Instructor creds, User = your user
-                account, Expire after = 90 days
-            -   Paste the access token into the Google Form above
-        -   To get the developer tokens, do the following.
-            -   While you’re logged in to Domo, go to
-                <https://developer.domo.com>
-            -   In the top right, click My Account
-            -   Click New Client
-            -   Name it “IS6481 Grading”
-            -   Click all options under scope
-            -   Click “Create”
-            -   Enter the information in the Google Form
+    -   Complete the signup process as outlined in your email.
 -   R Studio Cloud
     -   Go to the following link: [link much too
         long](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
