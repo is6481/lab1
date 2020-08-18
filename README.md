@@ -10,29 +10,27 @@ noted below when a download will be helpful.
 I have attempted to do exercises in the same order presented in the
 text. Unfortunately, this is not possible for all of the labs. The text
 starts at the strategic level and works backward to technology. This is
-the corret thing to do in real life, but is not optimized for doing labs
-in the class. You’ll see what I mean when you get there. This lab will
-outline each of the systems we’re going to use and will provide
+the correct thing to do in real life, but is not optimized for doing
+labs in the class. You’ll see what I mean when you get there. This lab
+will outline each of the systems we’re going to use and will provide
 resources for further reading. Information from labs will be included in
 quizzes, so please pay close attention to the material in this (and
 other) labs.
 
 ### Git/GitHub
 
-Git is a version control system. If you haven’t heard of this it
-probably means you haven’t done any software development in the last two
-or three years (which is totally fine, BTW). Version control systems
-track changes to a file or set of files over time. This allows for
-experimentation with those files as changes can be rolled back to any
-prior version. It is incredibly useful when developing software and, as
-we’re finding, doing analytics work.
+Git is a version control system. Version control systems track changes
+to a file or set of files over time. This allows for experimentation
+with those files as changes can be rolled back to any prior version. It
+is incredibly useful when developing software and, as we’re finding,
+doing analytics work.
 
 Git will not be used a ton in this course, except to be a place I can
-manage and share the materials for the course. I’m mentioning it here
-because it is a terribly important technology that is used in analytics
-(and software development) today. Also note that some of you may want to
-work locally for a few of the labs and that can be done easily by
-checking out the code from GitHub (here: <https://github.com/is6481>).
+manage and share the materials. I’m mentioning it here because it is a
+terribly important technology that is used in analytics (and software
+development) today. Also note that some of you may want to work locally
+for a few of the labs and that can be done easily by checking out the
+code from GitHub (here: <https://github.com/is6481>).
 
 Please watch this [video](https://www.youtube.com/watch?v=BCQHnlnPusY)
 as an introduction to Git and GitHub.
@@ -43,13 +41,13 @@ Desktop](https://desktop.github.com/) This is optional.
 ### Domo
 
 Domo is a cloud-based data warehouse and data visualization platform
-(disclosure: I work for Domo in my real life). We will be using Domo for
+(disclosure: I work for Domo during the day). We will be using Domo for
 a handful of exercises as we can model how data moves from a database or
 data warehouse, through ETL processes and ends up in a front-end system.
 Domo also highlights some of the advancements discussed in the text
 especially around the ability to search for data, the ability to create
 alerts, and the ability to have reports sent at specified intervals
-(this will make sense as we go through the course).
+(this will, hopefully, make sense as we go through the course).
 
 You will receive an invite for this course’s Domo environment. Complete
 the sign-up process as part of this lab.
@@ -66,10 +64,9 @@ Studio Cloud is a great product that allows me visibility into your
 work. I’ll have the two assignments there and will be able to see your
 work w/o the need to transfer files back and forth.
 
-Sign up for your account and access to our workspace
-[here](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb).
-There will be a longer introduction to R Studio when we get there later
-this semester.
+NOTE: RStudio Cloud is no longer free. I’m working with the university
+to get a paid license for this course. If that doesn’t happen, we will
+use RStudio on the desktop for labs 5 & 6.
 
 ### AWS
 
@@ -101,19 +98,28 @@ For Lab 1 do the following.
     -   Be prepared to answer questions in Quiz 1.
 -   Domo
     -   Complete the signup process as outlined in your email.
--   R Studio Cloud
-    -   Go to the following link: [link much too
-        long](https://rstudio.cloud/spaces/20344/join?access_code=2HCnR%2B%2BP8WRCAJOTqOqRrGGEYh4FUi0oWGhIt%2FNb)
-    -   Watch the video I will create for an introduction to R Studio
+    -   If that signup process does not work, click the “forgot
+        password” link and enter your official Umail email address to
+        reset your password.
+-   R Studio Cloud - I’m still working out access to RStudio Cloud as it
+    is now a paid product. If I am able to get access, I’ll provide
+    instructions when needed. Otherwise, we will use the desktop
+    product.
 -   AWS
     -   Follow the instructions in the email you recieved to setup your
         account with AWS Educate.
     -   Note that you will be allocated enough credits to complete
         projects for this course. In fact, there will likely be more
         credits in your account that we need for the course. If you
-        would like to play around with other technologies not covered in
-        the course, feel free, just be careful you don’t use up all the
-        credits before you’ve finished the assignments.
+        would like to try other technologies not covered in the course,
+        feel free, just be careful you don’t use up all the credits
+        before you’ve finished the assignments.
 
-After you have completed these exercises, refer to lecture notes for
-what topics will be covered in quiz 1.
+To Turn In
+==========
+
+-   Click the “submit assignment” button and type “I have completed this
+    assignment” to get full credit. This indicates that you have watched
+    the videos referenced here and that you have signed up for Domo and
+    AWS Educate.
+-   Refer to lecture notes for what topics will be covered in quiz 1.
