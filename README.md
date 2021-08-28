@@ -1,5 +1,4 @@
-Objectives
-==========
+# Objectives
 
 This lab serves as the starting point for the hands-on portion of
 IS6481. In this lab, we will set up each of the technologies used in the
@@ -64,9 +63,10 @@ Studio Cloud is a great product that allows me visibility into your
 work. I’ll have the two assignments there and will be able to see your
 work w/o the need to transfer files back and forth.
 
-NOTE: RStudio Cloud is no longer free. I’m working with the university
-to get a paid license for this course. If that doesn’t happen, we will
-use RStudio on the desktop for labs 5 & 6.
+In order to sign up for this courses workspace, visit [this
+link](https://github.com/is6481/lab1). This may end up being a two stage
+process where you sign up for an RStudio Cloud account and then sign up
+for the workspace.
 
 ### AWS
 
@@ -88,8 +88,7 @@ We will be using MySQL databases hosted on AWS this semester. Later in
 the semester it might be helpful to use a SQL development environment.
 More details to follow later in the semester when needed.
 
-Summary Instructions
-====================
+# Summary Instructions
 
 For Lab 1 do the following.
 
@@ -115,8 +114,7 @@ For Lab 1 do the following.
         feel free, just be careful you don’t use up all the credits
         before you’ve finished the assignments.
 
-To Turn In
-==========
+# To Turn In
 
 -   Click the “submit assignment” button and type “I have completed this
     assignment” to get full credit. This indicates that you have watched
