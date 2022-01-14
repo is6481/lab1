@@ -34,7 +34,7 @@ While not required, you can also sign up for a student version of Domo [here](ht
 ### R/Rstudio Cloud
 We will use RStudio this semester for two predictive projects/labs. R Studio Cloud is a great product that allows me visibility into your work. I'll have the two assignments there and will be able to see your work w/o the need to transfer files back and forth.
 
-In order to sign up for this courses workspace, visit [this link](https://rstudio.cloud/spaces/164738/join?access_code=G%2BFwkW%2BNS0lm5qu7QnApU3AqhazU8TpKQNxKfLDQ). This may end up being a two stage process where you sign up for an RStudio Cloud account and then sign up for the workspace.
+In order to sign up for this courses workspace, visit [this link](https://rstudio.cloud/spaces/207329/join?access_code=JjdSNnpJpL4fL4g4FrfWTxb%2BesJBZ2ZxgztPELLB). This is a two stage process where you sign up for an RStudio Cloud account and then sign up for the workspace (using the link above).
 
 ### AWS
 Amazon Web Services is the best/most popular cloud service provider. AWS provides everything from simple servers to more complicated machine learning capabilities. It is possible to run all of your IT operations on the AWS platform and many of your favorite products run on AWS (Netflix and Uber come to mind).

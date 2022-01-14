@@ -64,9 +64,9 @@ work. I’ll have the two assignments there and will be able to see your
 work w/o the need to transfer files back and forth.
 
 In order to sign up for this courses workspace, visit [this
-link](https://rstudio.cloud/spaces/164738/join?access_code=G%2BFwkW%2BNS0lm5qu7QnApU3AqhazU8TpKQNxKfLDQ).
-This may end up being a two stage process where you sign up for an
-RStudio Cloud account and then sign up for the workspace.
+link](https://rstudio.cloud/spaces/207329/join?access_code=JjdSNnpJpL4fL4g4FrfWTxb%2BesJBZ2ZxgztPELLB).
+This is a two stage process where you sign up for an RStudio Cloud
+account and then sign up for the workspace (using the link above).
 
 ### AWS
 
