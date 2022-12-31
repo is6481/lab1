@@ -39,22 +39,18 @@ Desktop](https://desktop.github.com/) This is optional.
 
 ### Domo
 
-Domo is a cloud-based data warehouse and data visualization platform
-(disclosure: I work for Domo during the day). We will be using Domo for
-a handful of exercises as we can model how data moves from a database or
-data warehouse, through ETL processes and ends up in a front-end system.
-Domo also highlights some of the advancements discussed in the text
-especially around the ability to search for data, the ability to create
-alerts, and the ability to have reports sent at specified intervals
-(this will, hopefully, make sense as we go through the course).
+Domo is a cloud-based data warehouse and data visualization platform. We
+will be using Domo for a handful of exercises as we can model how data
+moves from a database or data warehouse, through ETL processes and ends
+up in a front-end system. Domo also highlights some of the advancements
+discussed in the text especially around the ability to search for data,
+the ability to create alerts, and the ability to have reports sent at
+specified intervals (this will, hopefully, make sense as we go through
+the course).
 
-You will receive an invite for this course’s Domo environment. Complete
-the sign-up process as part of this lab.
-
-While not required, you can also sign up for a student version of Domo
-[here](http://www.domo.com/start/student). You will have access to a
-current version of Domo for one year. Please be responsible regarding
-what data you upload to Domo.
+You will receive an invite for this course’s Domo environment via your
+university email address. Complete the sign-up process as part of this
+lab.
 
 ### R/Rstudio Cloud
 
@@ -64,7 +60,7 @@ work. I’ll have the two assignments there and will be able to see your
 work w/o the need to transfer files back and forth.
 
 In order to sign up for this courses workspace, visit [this
-link](https://rstudio.cloud/spaces/207329/join?access_code=JjdSNnpJpL4fL4g4FrfWTxb%2BesJBZ2ZxgztPELLB).
+link](https://posit.cloud/spaces/321670/join?access_code=FgQaffuuTXznzKK9ZAyIlsChle1xiRmlI4GW30xG).
 This is a two stage process where you sign up for an RStudio Cloud
 account and then sign up for the workspace (using the link above).
 
