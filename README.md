@@ -72,9 +72,13 @@ learning capabilities. It is possible to run all of your IT operations
 on the AWS platform and many of your favorite products run on AWS
 (Netflix and Uber come to mind).
 
-You should have recieved an email from AWS and a note via Canvas from me
-regarding signing up for our AWS classroom. Follow the prompts to sign
-up for the student version of AWS.
+You should have recieved an email from AWS with instructions on how to
+sign up for our AWS classroom. Follow the prompts to sign up for the
+student version of AWS. AWS Academy will require you sign up to a
+separate Canvas account that is AWS specific. When asked if you already
+have a Canvas login, answer “No”. We will only use that Canvas account
+to get into AWS. All other assignments will be handled via your standard
+Utah Canvas account.
 
 Please watch this [video](https://www.youtube.com/watch?v=qcY-uiEHhn0).
 This video is quite basic, but does a great job introducing cloud
