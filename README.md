@@ -59,10 +59,10 @@ Studio Cloud is a great product that allows me visibility into your
 work. I’ll have the two assignments there and will be able to see your
 work w/o the need to transfer files back and forth.
 
-In order to sign up for this courses workspace, visit [this
-link](https://posit.cloud/spaces/321670/join?access_code=FgQaffuuTXznzKK9ZAyIlsChle1xiRmlI4GW30xG).
-This is a two stage process where you sign up for an RStudio Cloud
-account and then sign up for the workspace (using the link above).
+In order to sign up for this courses workspace, visit [this link (link
+will not work for the moment)](https://posit.cloud/). This is a two
+stage process where you sign up for an RStudio Cloud account and then
+sign up for the workspace (using the link above).
 
 ### AWS
 
